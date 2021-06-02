@@ -114,11 +114,11 @@
 		height:30px;
 		background:#222 url('../images/social_facebook.png') no-repeat 5px 5px;
 	}
-	.social-twitter {
+	.social-git {
 		float:left;
 		width:30px;
 		height:30px;
-		background:#222 url('../images/social_twitter.png') no-repeat 5px 5px;
+		background:rgb(245, 243, 243) url('../images/git.png') no-repeat 5px 5px;
 	}
 	.social-googleplus {
 		float:left;
